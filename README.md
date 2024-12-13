@@ -1,7 +1,5 @@
 # Jockey-Analysis
 
-# File 1: Report
-# File 2: Datasets
-
-# Branch (Original Code): All the original code
+This project presents an initial exploration into the acquisition, processing, and preliminary analysis of Hong Kong horse racing data.
+The data was crawled from two websites: the Hong Kong Jockey Club and MaJing.
 
