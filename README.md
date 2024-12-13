@@ -5,7 +5,7 @@ The data was crawled from two websites: the Hong Kong Jockey Club and MaJing.
   
 ## Report：
 
-![]()
+![](https://github.com/Keanu-Piggy/Jockey-Analysis/blob/main/Report_Group26_Jockey-Analysis.pdf)
 
 ## Click the following link to view the code through NBViewer：
 
